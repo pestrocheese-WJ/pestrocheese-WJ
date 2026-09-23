@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/banner.gif" width="100%" alt="Header Banner" />
 
-  # Hi there! I'm Pakkarasit Watjang
+  # Hi ! I'm Pakkarasit Watjang
   
   **4th-year Business Information Technology Student @ KMITL**
   
