@@ -25,7 +25,7 @@ I am a 4th-year **Business Information Technology** student at the **Faculty of 
 I build end-to-end data pipelines, from streaming ingestion and data lakes to warehouse modelling, orchestration and dashboards, using both managed platforms (Databricks) and open-source tools on Google Cloud.
 
 - 🎯 **Career Interest:** Data Engineering, streaming pipelines and Lakehouse architecture
-- 📖 **Current Focus:** Completing the **DataTalksClub Data Engineering Zoomcamp** and preparing for the **Databricks Certified Data Engineer Associate**
+- 📖 **Current Focus:** Preparing for the **Databricks Certified Data Engineer Associate**
 - 🎓 **Education:** Business Information Technology, Faculty of IT, KMITL
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pakkarasit-watjang-b5416b3b7/) | [GitHub](https://github.com/pestrocheese-WJ) | [Email](mailto:wjpakkarasit@gmail.com)
 
